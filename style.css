@@ -13,6 +13,39 @@ Main background - #D4A76A*/
     color: #553100;
     height:100px;
   }
+
+  .tops{
+    background-color: #805215;
+    color: white;
+    width: 20px;
+    height: 90px;
+    font-size: 20px;
+    font-family:Arial;
+  }
+
+  #home{
+    position:fixed;
+    top: 15px;
+    left: 450px;
+  }
+
+  #flights{
+    position:fixed;
+    top: 15px;
+    right: 540px;
+  }
+
+  #support{
+    position:fixed;
+    top: 15px;
+    right: 300px;
+  }
+  #login{
+    position:fixed;
+    top: 15px;
+    right: 10px;
+  }
+
 body{
     background-color: #D4A76A ;
 }
